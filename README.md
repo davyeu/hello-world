@@ -1,2 +1,3 @@
 # hello-world
-his repository is for practicing the GitHub Flow.
+I deleted the first row appeard in the main branch. <br>
+my name is David.
